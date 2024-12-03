@@ -1,4 +1,4 @@
-# SNA-LAB
+# SNA-LAB-01
 
 Systematic Scalability Analysis for PathpyG Features.
 
